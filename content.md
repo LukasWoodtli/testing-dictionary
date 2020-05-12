@@ -33,6 +33,12 @@ Shift Left Testing
 
 Test First
 
+Three types of Endresults to test (The Art of Unit Testing):
+- Return values (and exceptions)
+- State Changes
+- Call to 3rd party objects (with mocking)
+
+
 Kind of confidences a test can be targeted to:
 - Business Logic 
 - User Interface 
